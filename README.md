@@ -40,7 +40,7 @@ Pacote que recebe os objetos criados e encapsulados no pacote Models e interage 
 
 Tendo todos os programas citados devidamente instalados na sua máquina:
 
-1. Após criar o seu projeto com CodeIgniter 4 na pasta "htdocs" do XAMPP substitua as pastas "public" e "app" pelas pastas de mesmo nome que estão no repositório.
+1. Após criar o seu projeto com CodeIgniter 4 na pasta "htdocs" do XAMPP substitua as pastas "public" e "app" pelas pastas de mesmo nome que estão na pasta "desafio" deste repositório.
 2. Altere o nome do arquivo "env" para ".env" e escreva "CI_ENVIRONMENT = development" nele.
 3. Execute o script "bank.sql" no MySQL.
 4. Inicie os servidores Apache e MySQL no painel de controle do XAMPP.
