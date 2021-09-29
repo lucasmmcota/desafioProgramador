@@ -11,3 +11,5 @@ class ContaModel extends Model {
     protected $allowedFields = ['saldoTotalReais', 'moedas', 'saldoMoedas'];
     protected $returnType = 'object';
 }
+
+?>
